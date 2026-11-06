@@ -1,4 +1,4 @@
-## Módulo 5: Dinámica de Sistemas
+### Módulo 5: Dinámica de Sistemas
 # Descripción del Proyecto
 En este módulo se aplicaron los principios de Dinámica de Sistemas mediante el uso del software Vensim PLE, con el objetivo de representar, simular y analizar el comportamiento de un proceso industrial frente a diferentes condiciones operativas.
 
