@@ -1,10 +1,10 @@
-### Módulo 5: Dinámica de Sistemas
-# Descripción del Proyecto
+# Módulo 5: Dinámica de Sistemas
+## Descripción del Proyecto
 En este módulo se aplicaron los principios de Dinámica de Sistemas mediante el uso del software Vensim PLE, con el objetivo de representar, simular y analizar el comportamiento de un proceso industrial frente a diferentes condiciones operativas.
 
 Como caso de estudio, se desarrolló un modelo de control dinámico de temperatura en un secador industrial de pepitas de uva, vinculado al aprovechamiento de subproductos de la industria vitivinícola.
 
-# Desarrollo y Simulación
+## Desarrollo y Simulación
 Se diseñó un sistema de regulación térmica capaz de ajustar la potencia de calefacción en función de la diferencia entre la temperatura real y la temperatura deseada.
 
 El modelo fue evaluado durante un período de 12 horas, considerando tres escenarios: funcionamiento estable, incremento repentino de la temperatura objetivo mediante una función STEP y respuesta del sistema ante una limitación de potencia.
